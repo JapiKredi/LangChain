@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 Jasper_OpenAI_API_Key.txt
 .DS_store
+SERPAPI_API_KEY.txt
