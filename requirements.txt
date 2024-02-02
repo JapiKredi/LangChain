@@ -1,5 +1,6 @@
 ipykernel
 openai
+langchain
 google-search-results
 numexpr
 wikipedia
