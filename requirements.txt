@@ -6,3 +6,4 @@ numexpr
 wikipedia
 ipywidgets
 unstructured
+nltk
