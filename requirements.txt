@@ -8,3 +8,4 @@ ipywidgets
 unstructured
 nltk
 faiss-cpu
+textblob
