@@ -10,3 +10,4 @@ nltk
 faiss-cpu
 textblob
 spacy
+sklearn
